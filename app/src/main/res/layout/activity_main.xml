@@ -15,4 +15,6 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!--TODO - Step 1 - Add a Floating Action Button-->
+
 </androidx.constraintlayout.widget.ConstraintLayout>

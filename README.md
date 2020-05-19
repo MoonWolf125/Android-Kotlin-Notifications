@@ -1,5 +1,6 @@
 Android Kotlin Notifications - Starting Template 
 ============================================================================ 
+![Android CI](https://github.com/MoonWolf125/Android-Kotlin-Notifications/workflows/Android%20CI/badge.svg)
 
 Introduction
 ------------ 

@@ -1,0 +1,6 @@
+# User-Defined ignored files
+*.iml
+local.properties
+
+# Ignore the generated codelab folder and files
+codelab/Android-Kotlin-Notifications
